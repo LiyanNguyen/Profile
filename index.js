@@ -1,0 +1,2 @@
+renderNavbar();
+renderProfile();
